@@ -1,0 +1,18 @@
+1	fruit		10	2	20	10		
+2	vegetables		9	1	9	20
+3	cereals		18	2	36	5
+4	meat		4	6	24	10
+5	fish		3	7	21	14
+6	dairy		25	1	25	25
+7	sweets		1	10	10	30
+8	alcohol		1	100	100	3
+9	drinks		17	2	34 	1
+10	fastfood		3	10	30	3
+
+
+
+
+			
+
+
+

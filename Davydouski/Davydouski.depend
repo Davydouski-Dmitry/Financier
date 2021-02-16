@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1611677981 source:d:\Учёба 2020\1 - Основы алгоритмизации и програмирования\Индивидуальный проект С++\davydouski\main.cpp
+	<math.h>
+	<stdio.h>
+	<fstream>
+	<iostream>
+	<cstring>
+	<conio.h>
+	<iomanip>
+
